@@ -9,16 +9,7 @@
 
 std::vector<int> solution(std::vector<int> array);
 
-void sample_test1();
-void sample_test2();
-void sample_test3();
-
-void extended_test1();
-void extended_test2();
-void extended_test3();
-void extended_test4();
-void extended_test5();
-void extended_test6();
+void fixed_tests();
 
 void random_tests();
 
